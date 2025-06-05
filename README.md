@@ -64,9 +64,9 @@ YouTube content creators and digital marketers constantly need to track how thei
 
 | File Name | Description |
 |-----------|-------------|
-| [YouTube_Dashboard.twbx](https://github.com/dsappa7196/youtube-metrics-dashboard/blob/main/YouTube_Dashboard.twbx) | Tableau workbook with all dashboards |
-| [YouTube_Report.docx](https://github.com/dsappa7196/youtube-metrics-dashboard/blob/main/YouTube_Report.docx) | Word report summarizing findings and recommendations |
-| [YouTube_Insights_Presentation.pptx](https://github.com/dsappa7196/youtube-metrics-dashboard/blob/main/YouTube_Insights_Presentation.pptx) | Final presentation deck |
+| [YouTube_Dashboard.twbx](https://github.com/dsappa7196/youtube-metrics-dashboard/blob/main/Final_YT%20Dashboard_ISYS850.twbx) | Tableau workbook with all dashboards |
+| [YouTube_Report.docx](https://github.com/dsappa7196/youtube-metrics-dashboard/blob/main/Workbook_Tableau%20Dashboard_Group3_ISYS850.pdf) | Word report summarizing findings and recommendations |
+| [YouTube_Insights_Presentation.pptx](https://github.com/dsappa7196/youtube-metrics-dashboard/blob/main/Presentation_Group%203_YT%20Dashboard.pptx) | Final presentation deck |
 | `README.md` | This file |
 
 ---
